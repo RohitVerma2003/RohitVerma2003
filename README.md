@@ -58,19 +58,19 @@
 
 ### 🔹 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4682B4?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![React Native](https://img.shields.io/badge/React_Native-blue)
-![Node](https://img.shields.io/badge/Node-green)
-![Express](https://img.shields.io/badge/Express-grey)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4682B4?style=plastic&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=plastic&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-blue?style=plastic&logo=react)
+![Node](https://img.shields.io/badge/Node-green?style=plastic&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-grey?style=plastic&logo=express&logoColor=white)
 
 ### 🔹 **Database**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=plastic&logo=MongoDB&logoColor=white)
 
 ---
 
