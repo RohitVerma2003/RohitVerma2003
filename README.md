@@ -1,65 +1,106 @@
-<h4 align="center">👋 Hello there! I'm Rohit Verma, a B.Tech CS student.<br><br>I'm all about coding and problem-solving. Currently diving into the world of algorithms and software engineering. I love collaborating on projects and learning as I go.<br><br>🌱 Learning, Growing, Coding.<br><br>Seeking opportunities to expand my skills and connect with fellow tech enthusiasts. Let's chat and explore the exciting possibilities in the world of computer science!</h4>
+<!-- GitHub README START -->
 
-###
+<h1 align="center" style="color:#9370DB;">
+  👋 Hi there, I'm <span style="color:#8A2BE2;">Rohit Verma</span>
+</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitVerma2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React++%2B+React+Native;Node+%2B+Express+%2B+MongoDB;Smart+India+Hackathon+Finalist;C%2B%2B+Developer" alt="Typing SVG"/>
 </div>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohitdverma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RohitVerma2003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rvermajio78300@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/uL0pJDdA6fQ08/giphy.gif?cid=790b76112jm4aawaytfytfhc675af8klatdnjq0dvwwag60z&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+---
 
-###
+## 🎓 Education
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+<table>
+  <tr>
+    <td>🧮</td>
+    <td><strong>B.Tech in Computer Science</strong><br/>
+        <em>Dr. Abdul Kalam Technical University</em><br/>
+        <code>Batch: 2022–2026</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⌚️ Experience
+
+### 🤖 **ReactJS Developer** — *Paper Code Technologies*
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project                        | Description                                  | Repo                                                            |
+| ------------------------------ | -------------------------------------------- | --------------------------------------------------------------- |
+| 💸 **Money Buddy**             | Personal Expense Tracker Application         | [Repo](https://github.com/RohitVerma2003/Money-Buddy)           |
+| 💬 **Xhat Application**        | Real time chat application platform          | [Repo](https://github.com/RohitVerma2003/Chat-Application)      |
+| 📅 **Google Calendar Clone**   | Calendar platform like Google Calendar       | [Repo](https://github.com/RohitVerma2003/Google-Calendar-Clone) |
+| ♟️ **Chess.com**               | Real time chess game                         | [Repo](https://github.com/RohitVerma2003/Chess.com-Clone)       |
+
+🔗 [Explore All Projects →](https://github.com/RohitVerma2003?tab=repositories)
+
+## 🛠️ Tech Stack
+
+### 🔹 **Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4682B4?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![React Native](https://img.shields.io/badge/React_Native-blue)
+![Node](https://img.shields.io/badge/Node-green)
+![Express](https://img.shields.io/badge/Express-grey)
+
+### 🔹 **Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohitVerma2003&show_icons=true&theme=lavender&bg_color=00000000&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitVerma2003&layout=compact&theme=lavender&bg_color=00000000&hide_border=true" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/vrohit.exe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rvermajio78300@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-verma-639837281/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitVerma2003&theme=lavender&area=true&hide_border=true" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🏆 GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohitVerma2003/RohitVerma2003/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohitVerma2003/RohitVerma2003/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RohitVerma2003/RohitVerma2003/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitVerma2003&theme=lavender&margin-w=10&no-frame=true&row=2&column=4" />
+</div>
 
-###
+---
+
+<div align="center">
+  <i>⚡ "Bad programmers worry about the code. Good programmers worry about data structures and their relationships "</i>
+</div>
+
+<!-- GitHub README END -->
