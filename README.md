@@ -42,6 +42,7 @@
 ## ⌚️ Experience
 
 ### 🤖 **ReactJS Developer** — *Paper Code Technologies*
+### 🤖 **Smart India Hackathon Finalist** — *Indian Space Research Organization (ISRO)*
 
 
 ---
