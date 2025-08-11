@@ -55,6 +55,7 @@
 | 💬 **Chat Application**        | Real time chat application platform          | [Repo](https://github.com/RohitVerma2003/Chat-Application)      |
 | 📅 **Google Calendar Clone**   | Calendar platform like Google Calendar       | [Repo](https://github.com/RohitVerma2003/Google-Calendar-Clone) |
 | ♟️ **Chess.com**               | Real time chess game                         | [Repo](https://github.com/RohitVerma2003/Chess.com-Clone)       |
+| 🙋  **Portfolio**              | My personal portfolio                        | [Link](https://portfolio-react-psi-gilt.vercel.app/)            |
 
 🔗 [Explore All Projects →](https://github.com/RohitVerma2003?tab=repositories)
 
