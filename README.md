@@ -22,6 +22,9 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitVerma2003&color=green"/>
+</p>
 
 ---
 
