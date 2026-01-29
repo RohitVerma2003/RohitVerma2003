@@ -1,4 +1,7 @@
 <!-- GitHub README START -->
+<div align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/c123f0b5-146e-45b6-ac5e-3e5941ea4eea" align="center" object-fit="contain"/>
+</div>
 
 <h1 align="center" style="color:#9370DB;">
   👋 Hi there, I'm <span style="color:#8A2BE2;">Rohit Verma</span>
@@ -44,6 +47,8 @@
 
 ## ⌚️ Experience
 
+### 🤖 **SDE Intern** — *INA Internet Group*
+### 🤖 **ReactJS Intern** — *The Entrepreneurship Network*
 ### 🤖 **ReactJS Developer** — *Paper Code Technologies*
 ### 🤖 **Smart India Hackathon Finalist** — *Indian Space Research Organization (ISRO)*
 
@@ -66,46 +71,30 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 **Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4682B4?style=plastic&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=plastic&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-blue?style=plastic&logo=react)
-![Node](https://img.shields.io/badge/Node-green?style=plastic&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-grey?style=plastic&logo=express&logoColor=white)
-
-### 🔹 **Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=plastic&logo=MongoDB&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohitVerma2003&show_icons=true&theme=lavender&bg_color=00000000&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitVerma2003&layout=compact&theme=lavender&bg_color=00000000&hide_border=true" />
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitVerma2003&theme=lavender&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitVerma2003&theme=lavender&margin-w=10&no-frame=true&row=2&column=4" />
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
