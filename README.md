@@ -21,7 +21,7 @@
   <a href="mailto:rvermajio78300@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-react-psi-gilt.vercel.app/">
+  <a href="https://rohiit.in/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
