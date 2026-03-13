@@ -1,6 +1,6 @@
 <!-- GitHub README START -->
 <div align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/c123f0b5-146e-45b6-ac5e-3e5941ea4eea" align="center" object-fit="contain"/>
+<img src="https://github.com/user-attachments/assets/6182801d-d18f-47ac-ad65-e46e0f077482" align="center" object-fit="contain"/>
 </div>
 
 <h1 align="center" style="color:#9370DB;">
