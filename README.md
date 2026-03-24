@@ -59,13 +59,14 @@
 
 | Project                        | Description                                  | Repo                                                            |
 | ------------------------------ | -------------------------------------------- | --------------------------------------------------------------- |
+| 🤖 **AI Resume Roaster**       | Resume Analysis Using AI                     | [Repo](https://github.com/RohitVerma2003/Resume-Roaster)        |
 | 🤖 **PrepPilot**               | Job Quiz Using AI                            | [Repo](https://github.com/RohitVerma2003/PrepPilot)             |
 | 🍎 **MedBud**                  | Medicine Reminder With AI                    | [Repo](https://github.com/RohitVerma2003/MedBud)                |
 | 💸 **Money Buddy**             | Personal Expense Tracker Application         | [Repo](https://github.com/RohitVerma2003/Money-Buddy)           |
 | 💬 **Chat Application**        | Real time chat application platform          | [Repo](https://github.com/RohitVerma2003/Chat-Application)      |
 | 📅 **Google Calendar Clone**   | Calendar platform like Google Calendar       | [Repo](https://github.com/RohitVerma2003/Google-Calendar-Clone) |
 | ♟️ **Chess.com**               | Real time chess game                         | [Repo](https://github.com/RohitVerma2003/Chess.com-Clone)       |
-| 🙋  **Portfolio**              | My personal portfolio                        | [Link](https://rohit-tau.vercel.app/)            |
+| 🙋  **Portfolio**              | My personal portfolio                        | [Link](https://rohiit.in/)            |
 
 🔗 [Explore All Projects →](https://github.com/RohitVerma2003?tab=repositories)
 
