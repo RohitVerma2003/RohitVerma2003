@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center" style="color:#9370DB;">
-  👋 Hi there, I'm <span style="color:#8A2BE2;">Rohit Verma</span>
+  👋 Yo, I'm <span style="color:#8A2BE2;">Rohit Verma</span>
 </h1>
 
 <div align="center">
