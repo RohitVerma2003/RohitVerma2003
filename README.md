@@ -59,6 +59,7 @@
 
 | Project                        | Description                                  | Repo                                                            |
 | ------------------------------ | -------------------------------------------- | --------------------------------------------------------------- |
+| 🤖 **Smart Study**             | AI-powered educational platform              | [Repo](https://github.com/RohitVerma2003/Smart-Study-Buddy)     |
 | 🖼️ **Imagica**                 | Highly scalble, ditributed image processor   | [Repo](https://github.com/RohitVerma2003/Imagica)               |
 | 🤖 **AI Resume Roaster**       | Resume Analysis Using AI                     | [Repo](https://github.com/RohitVerma2003/Resume-Roaster)        |
 | 🤖 **PrepPilot**               | Job Quiz Using AI                            | [Repo](https://github.com/RohitVerma2003/PrepPilot)             |
