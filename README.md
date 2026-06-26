@@ -70,6 +70,15 @@
 | ♟️ **Chess.com**               | Real time chess game                         | [Repo](https://github.com/RohitVerma2003/Chess.com-Clone)       |
 | 🙋  **Portfolio**              | My personal portfolio                        | [Link](https://rohiit.in/)            |
 
+## 🚀 Data Analysis Projects
+
+| Project                        | Repo                                                            |
+| ------------------------------ | --------------------------------------------------------------- |
+| **Netflix Data Analysis**      | [Repo](https://github.com/RohitVerma2003/Netflix-Data-Analysis) |
+| **Customer Sales Trend Analysis**| [Repo](https://github.com/RohitVerma2003/Customer-Sales-Trend-Analysis) |
+| **Sales Management Dashboard** | [Repo](https://github.com/RohitVerma2003/Sales-Management-Dashboard) |
+| **Student Depression Analysis** | [Repo](https://github.com/RohitVerma2003/Student-Depression-Analysis) |
+
 🔗 [Explore All Projects →](https://github.com/RohitVerma2003?tab=repositories)
 
 ## 🛠️ Tech Stack
